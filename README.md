@@ -1,14 +1,4 @@
 <!-- BEGIN_TF_DOCS -->
-# PROJECT_NAME
-
-DESCRIPTION:
----
-Bootstraps the infrastructure for {{SELECT_APP_TYPE }}. 
-
-Will be used within the provisioned pipeline for your application depending on the options you chose.
-
-Pipeline implementation for infrastructure relies on workspaces, you can pass in whatever workspace you want from {{ SELECT_DEPLOYMENT_TYPE }} pipeline YAML.
-
 PREREQUISITES:
 ---
 Azure Subscripion
